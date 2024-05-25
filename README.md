@@ -34,7 +34,7 @@ DeskYout is a Python utility tool designed to download videos from YouTube effor
 
    Install the required dependencies using the following command:
    ```shell
-   pip install pytube tkinter
+   pip install -r requirements.txt
    ```
 
 4. **Run DeskYout**:
